@@ -1,0 +1,76 @@
+body{
+    background-color:#eeeeee;
+    font-family: "Microsoft Yahei",sans-serif,Georgia,"Times New Roman",Times,Arial;
+    margin: 0;
+    padding: 0;
+    color: #6b6b6b;
+    font-size: small;
+}
+
+header{
+    height: 5em;
+    font-size: 200%;
+    margin: 1em 1em 0 0;
+    padding: 0;
+}
+#table{
+    border-spacing: 10px;
+    display: table;
+    margin: auto;
+    width:75%;
+}
+
+#tablerow{
+    display: table-row;
+}
+
+article{
+    background-color: #FAFBFB;
+    font-size: 105%;
+    display: table-cell;
+    width: 75%;
+}
+
+aside{
+    background-color: #FAFBFB;
+    font-size: 105%;
+    padding: 20px;
+    display: table-cell;
+
+}
+article ul{
+    list-style-type: none;
+    padding: 20px;
+}
+article ul li h1{
+    text-align: center;
+}
+
+h1{
+    color: #1b1c1c;
+    font-family: FontAwesome,"琥珀",Georgia;
+}
+.info-time .info-author{
+    display: inline-block;
+    height: 1em;
+    font-size: 1em;
+    padding-right: 1.25em;
+    color: #6b6b6b;
+
+}
+span .read-more{
+    text-align: center;
+    border:#1b1c1c 2px solid;
+    display: block;
+    text-decoration: none;
+    padding: 0 20px;
+    width: 140px;
+    margin: 20px auto;
+    color: #1b1c1c;
+}
+.info{
+    margin: 5px auto;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+

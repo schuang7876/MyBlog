@@ -1,0 +1,41 @@
+body{
+    background-color:#F2EADD;
+    font-family: sans-serif,Georgia,"Times New Roman",Times,Arial,"Microsoft Yahei";
+    font-size: small;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #81C2D6;
+}
+a:link{
+    color: #81C2D6;
+}
+header{
+    background-color: #CBE2F0;
+    height: 108px;
+    font-size: 200%;
+    padding: 20px;
+    margin: 10px 10px 0 10px;
+
+}
+nav ul{
+    height: 35px;
+    background-color: #FDFFFA;
+    margin: 10px 10px 0 10px;
+    list-style-type: none;
+    padding: 5px 0 5px 0;
+    text-align: center;
+    font-size: 200%;
+    font-family: "琥珀 Microsoft Yahei";
+}
+nav ul li{
+    display: inline;
+    padding: 5px 10px 5px 10px;
+}
+
+h1{
+    color: #81C2D6;
+    font-family: Georgia;
+}
